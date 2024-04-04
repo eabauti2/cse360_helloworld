@@ -15,6 +15,7 @@ public class HelloWorldCSE360 extends Application{
 	public static Scene mainScene;
 	
 	public void start(Stage primaryStage) {
+
 		primaryStage.setTitle("In Class GitHub Activity");
 		Pane pane = new Pane();
 
@@ -39,3 +40,4 @@ public class HelloWorldCSE360 extends Application{
 	}
 
 }
+
